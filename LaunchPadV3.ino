@@ -1,6 +1,6 @@
 /*
-  This is the 3rd version of the launch pad on arduino nano/uno/mega
-  github:  
+  This is the 3rd version of the launch pad software on arduino nano/uno/mega
+  github: https://github.com/AndySpaceCompany/LaunchPadV3
 */
 //========DEFINE=======
 #include <Servo.h>
